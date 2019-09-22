@@ -1,2 +1,2 @@
 # DCManager
-this is a data center manager program 
+this is a IaaS CMDB program 
